@@ -4,9 +4,9 @@ import turtle
 turtle.Turtle()
 turtle.speed(999)
 x = turtle
-add = 0
+add = 1
 while True:
     x.forward(add)
-    x.right(100)
-    add = add + 0.1
+    x.right(179)
+    add = add + 1
 
